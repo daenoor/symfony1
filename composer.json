@@ -1,0 +1,9 @@
+{
+	"name": "symfony/symfony1",
+	"description": "Symfony 1.4 fork",
+	"license": "MIT",
+
+	"require": {
+		"php": ">=5.3.3"
+	}
+}
